@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543594285773",
+    "firebase_url": "https://infocovid-9af14.firebaseio.com",
+    "project_id": "infocovid-9af14",
+    "storage_bucket": "infocovid-9af14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543594285773:android:a7d9aac9b8da209973b784",
+        "android_client_info": {
+          "package_name": "com.nccfsl.info_covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543594285773-f04g8prahiq5loe0i47olp4r42rhplvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_CFdG3P0jNM0w1zoQWAJ-gLvMEmoxQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543594285773-f04g8prahiq5loe0i47olp4r42rhplvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
